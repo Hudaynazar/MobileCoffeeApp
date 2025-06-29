@@ -6,6 +6,7 @@ Burada iki giriş vardır. Birisi dükkan sahibinin(admin) girişi, diğeri çal
 ![image](https://github.com/user-attachments/assets/1c4f4f24-604a-4e0c-8142-3f767ee7edc2)
 
 Admin olarak giriş sağladığımızda dükkanımızdaki masaları, çalışanları, ürünlerimizi düzenleyebileceğimiz ekranla karşılaşıyoruz:
+
 ![image](https://github.com/user-attachments/assets/294c3502-ef87-4f57-8be9-9d3e2afbd7e8)
 
 Depoda ürünler:
