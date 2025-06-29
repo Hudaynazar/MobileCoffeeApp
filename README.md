@@ -1,4 +1,4 @@
-﻿# MobileCoffeeApp
+﻿# MobileCafeApp
  
 Bu proje, Flutter kullanılarak kafeler için geliştirilmiş uygulamadır. Burada Flutterı daha yeni öğrendiğim için database'i 'sqlflite' aldım ve sadece localde kullanılır yapdım. Daha online için düzenlenmedi. Fakat şimdiden kendi telefonunuza uygulama olarak çıkartıp kullanılabilir halde.
 
