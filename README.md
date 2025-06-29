@@ -20,7 +20,7 @@ Dükkanındaki masa sayısı:
 
 ![masalar](https://github.com/user-attachments/assets/dedd449a-8da8-4e0a-83bb-2779f5171488)
 
-Kasa işlemlerinde güznlük, aylık ciro ve fiş sayıları:
+Kasa işlemlerinde günlük, aylık ciro ve fiş sayıları:
 
 ![image](https://github.com/user-attachments/assets/3c4bb816-913e-42d1-b8ba-d8613190802f)
 
